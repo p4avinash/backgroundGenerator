@@ -1,0 +1,14 @@
+body {
+	font-family: "Courier New", Courier, monospace;
+	background: linear-gradient(to right, red, yellow);
+	text-transform: uppercase;
+	line-height: 4rem;
+	text-align: center;
+	letter-spacing: 0.4em;
+}
+
+h3 {
+	letter-spacing: 0;
+	text-transform: none;
+	font-family: "Times New Roman", Times, serif;
+}
