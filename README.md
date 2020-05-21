@@ -1,0 +1,2 @@
+# backgroundGenerator
+Just practicing JavaScript
